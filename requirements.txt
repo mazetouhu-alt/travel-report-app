@@ -1,6 +1,0 @@
-streamlit
-gspread
-google-auth
-fpdf2
-google-genai
-pandas
